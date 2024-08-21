@@ -1,10 +1,10 @@
-# calender-web
+# calendar-web
 
-An calender web app that is for public showing your schedules.
+An calendar web app that is for public showing your schedules.
 
 # Demo
 
-https://calender.nelsongx.com
+https://calendar.nelsongx.com
 
 # Usage
 
