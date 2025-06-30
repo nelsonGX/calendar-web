@@ -1,3 +1,6 @@
+# Discontinued
+Please view the better version: https://github.com/nelsonGX/calendar-web-better
+
 # calendar-web
 
 An calendar web app that is for public showing your schedules.
